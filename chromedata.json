@@ -1,0 +1,265 @@
+{
+    "time": 1728548295404,
+    "data": {
+        "win_x86": {
+            "stable": {
+                "version": "129.0.6668.101",
+                "size": 102708592,
+                "sha1": "3e258852588f692ead31ea07b50f37c5673fc098",
+                "sha256": "91814c4c96f6bdc3646b70e953379f728580d751205fd150dc288ae1b2c19aa9",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/advvx6fiq33aayurtgmmpcbvabcq_129.0.6668.101/129.0.6668.101_chrome_installer.exe"
+                ],
+                "label": "Stable \u7a33\u5b9a\u7248",
+                "updatetime": 1728461909917
+            },
+            "beta": {
+                "version": "130.0.6723.31",
+                "size": 103268216,
+                "sha1": "40653b8816c591cfee4d13f949d4a8eeaf09fea1",
+                "sha256": "967c67e2e0594425bf04b8c7ffa03057fa6f1d861dc11285f445cd432a296f9f",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/adxvpov4a5t6h3dk7j2a2wlgppza_130.0.6723.31/130.0.6723.31_chrome_installer.exe"
+                ],
+                "label": "Beta \u6d4b\u8bd5\u7248",
+                "updatetime": 1728029898991
+            },
+            "dev": {
+                "version": "131.0.6753.0",
+                "size": 103607160,
+                "sha1": "00036df20832e60373dc60caf9ce18700ac48d41",
+                "sha256": "584230673826e4e827b408ef3be09dc285ab8780c7cf01d59b6226895c471245",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/p2wgv3lorspbp6gjsjfc5yzgxa_131.0.6753.0/131.0.6753.0_chrome_installer.exe"
+                ],
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1728116256671
+            },
+            "canary": {
+                "version": "131.0.6768.0",
+                "size": 103989616,
+                "sha1": "2f80ecb0f64f184caa2bd29346f33d268599f97c",
+                "sha256": "3feac94de4aad096fad3e04357e860c2df80d16c51fc7f053538a63849d3b17e",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/hftumbtfgioy6ajcct6sqekpxa_131.0.6768.0/131.0.6768.0_chrome_installer.exe"
+                ],
+                "label": "Canary \u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1728548294305
+            }
+        },
+        "win_x64": {
+            "stable": {
+                "version": "129.0.6668.101",
+                "size": 115072880,
+                "sha1": "9b3871e0342747c56983c46fffdcc1f9aec8d41f",
+                "sha256": "6fcd05ea77001c4202751d6bc71daa9ab173df9f6a99197e18eab77eaeeabf46",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/dsznwl2ptzdzpmiqkqfgokn5am_129.0.6668.101/129.0.6668.101_chrome_installer.exe"
+                ],
+                "label": "Stable \u7a33\u5b9a\u7248",
+                "updatetime": 1728461911019
+            },
+            "beta": {
+                "version": "130.0.6723.31",
+                "size": 115328888,
+                "sha1": "a9f71e55ec67b8d7e331fffe3c9b49c73c68d54e",
+                "sha256": "9feaca71468d14603adba9d629217cacd7d69105c5d24fbf6d87e8383ddf3d53",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/adx66cvtnlxcsew32bycsgw4baha_130.0.6723.31/130.0.6723.31_chrome_installer.exe"
+                ],
+                "label": "Beta \u6d4b\u8bd5\u7248",
+                "updatetime": 1728029899868
+            },
+            "dev": {
+                "version": "131.0.6753.0",
+                "size": 115852664,
+                "sha1": "87aa0211b21f6724fc9221740ddbf2384cc01d82",
+                "sha256": "6b572c679bdf3cecc6574eccd72e6dce6c8fd64a37ff5c2a34a890fcfb112ddd",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/iil6plp7tjyj6bu5taccrzgzlq_131.0.6753.0/131.0.6753.0_chrome_installer.exe"
+                ],
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1728116257436
+            },
+            "canary": {
+                "version": "131.0.6768.0",
+                "size": 116359024,
+                "sha1": "5008c4efac92cfe4c7a7306b038a96dcf0277fc9",
+                "sha256": "9ed9a19adf439409fa9ce02866165ac494b93852d4796a4f707885a52ac6673e",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/acakdsuzj3kbbk6me5bdjfrueqyq_131.0.6768.0/131.0.6768.0_chrome_installer.exe"
+                ],
+                "label": "Canary \u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1728548294683
+            }
+        },
+        "win7": {
+            "x86_stable": {
+                "label": "32 \u4f4d\u7a33\u5b9a\u7248",
+                "version": "109.0.5414.149",
+                "size": 89303080,
+                "sha1": "6610524FF5F1E3EE71D503E9B5C1F8A3FDB8D5AD",
+                "sha256": "1C7195F31513B06D625D3CB07A9103826C2A87302CF6B3255B913270C91532BB",
+                "urls": [
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/adjs6spifue5dxngiogotsz633pq_109.0.5414.149/109.0.5414.149_chrome_installer.exe"
+                ],
+                "updatetime": 1713343211941
+            },
+            "x64_stable": {
+                "label": "64 \u4f4d\u7a33\u5b9a\u7248",
+                "version": "109.0.5414.149",
+                "size": 93174824,
+                "sha1": "4B1DFF35DB446536D51AC7D5DD5CC76912432135",
+                "sha256": "D6E9957BD91503BCFA21616E08E2E46E8CBA96E961E5998D67F1EC1C436A0A3B",
+                "urls": [
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http2://redirector.gvt1.com/edgedl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://dl.google.com/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://dl.google.com/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "http://www.google.com/dl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe",
+                    "https://www.google.com/dl/release2/chrome/oeecyq7z2j4yyfoa4cev5c4o7e_109.0.5414.149/109.0.5414.149_chrome_installer.exe"
+                ],
+                "updatetime": 1713343211941
+            }
+        },
+        "mac": {
+            "stable": {
+                "version": "129.0.6668.100",
+                "size": 215614413,
+                "sha1": "d56f9e68db5a67931bbda25b17770aaeac5cbf87",
+                "sha256": "836a435aae574fc96a08a76d4e6ede2708d22484904fca38733178d2f8aa0931",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "http://dl.google.com/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "https://dl.google.com/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "http://www.google.com/dl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "https://www.google.com/dl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/hmo7bfphdudw7xkgbbknrhzsca_129.0.6668.100/GoogleChrome-129.0.6668.100.dmg"
+                ],
+                "label": "Stable \u7a33\u5b9a\u7248",
+                "updatetime": 1728461911983
+            },
+            "beta": {
+                "version": "130.0.6723.31",
+                "size": 212633885,
+                "sha1": "41f8d5ed62e7d8df836e6091d7867820ff046a58",
+                "sha256": "22ad1e5a16be0582cc15ce5a26a4652143de1096587900a265d2fb29cfefdcfd",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "http://dl.google.com/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "https://dl.google.com/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "http://www.google.com/dl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "https://www.google.com/dl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/adk27qbny53h52pd4qyogqly2uvq_130.0.6723.31/GoogleChromeBeta-130.0.6723.31.dmg"
+                ],
+                "label": "Beta \u6d4b\u8bd5\u7248",
+                "updatetime": 1728029900349
+            },
+            "dev": {
+                "version": "131.0.6753.0",
+                "size": 213666492,
+                "sha1": "7f00bb8902d9a706bcc65ceaef8e69f0c863cebf",
+                "sha256": "79456dd51a647f7971e7b17e9feda58c53ab2244ae00da8b3b9a4c14cc2991ee",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "http://dl.google.com/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "https://dl.google.com/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "http://www.google.com/dl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "https://www.google.com/dl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/acokxu5tafdbicsokgtaneu6azoa_131.0.6753.0/GoogleChromeDev-131.0.6753.0.dmg"
+                ],
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1728116258476
+            },
+            "canary": {
+                "version": "131.0.6767.0",
+                "size": 215469634,
+                "sha1": "4bd6c98d1b94d484f9ce55a4cfa56b2ecc0f5117",
+                "sha256": "76a63d33b78dba41bd5a768983f8fd51ec5031b0b60ddacd74a38941f7163c9f",
+                "urls": [
+                    "http://edgedl.me.gvt1.com/edgedl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "https://edgedl.me.gvt1.com/edgedl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "http://dl.google.com/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "https://dl.google.com/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "http://www.google.com/dl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "https://www.google.com/dl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "http://redirector.gvt1.com/edgedl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg",
+                    "https://redirector.gvt1.com/edgedl/release2/chrome/adxe4y4tiqa2i2sfx2njjs27z2ka_131.0.6767.0/GoogleChromeCanary-131.0.6767.0.dmg"
+                ],
+                "label": "Canary \u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1728548295404
+            }
+        }
+    }
+}
