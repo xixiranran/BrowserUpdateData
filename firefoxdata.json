@@ -1,0 +1,99 @@
+{
+    "time": 1749975612749,
+    "data": {
+        "win_x86": {
+            "release": {
+                "version": "139.0.4",
+                "size": "68417864",
+                "crc32c": "edcbe5c9",
+                "md5": "454e6c96e90a6e384d155a92370af519",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/win32/zh-CN/Firefox%20Setup%20139.0.4.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1749499462000
+            },
+            "esr": {
+                "version": "128.11.0",
+                "size": "62996312",
+                "crc32c": "41477deb",
+                "md5": "f0339494136e7d27c746b69a0baed665",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.11.0esr/win32/zh-CN/Firefox%20Setup%20128.11.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1748248127000
+            },
+            "beta": {
+                "version": "140.0b9",
+                "size": "68513520",
+                "crc32c": "953ff91e",
+                "md5": "fd6bf7be3b9f3ac5bfb1eb63fc141402",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0b9/win32/zh-CN/Firefox%20Setup%20140.0b9.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1749850432000
+            },
+            "dev": {
+                "version": "140.0b9",
+                "size": "68592048",
+                "crc32c": "997f081d",
+                "md5": "9d654979db965166c86f5b8b649208b0",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/140.0b9/win32/zh-CN/Firefox%20Setup%20140.0b9.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1749844822000
+            },
+            "nightly": {
+                "version": "141.0a1",
+                "size": "69444248",
+                "crc32c": "183d0f8f",
+                "md5": "501cb1b195a2b00783282ec834b329ad",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-141.0a1.zh-CN.win32.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1749903835000
+            }
+        },
+        "win_x64": {
+            "release": {
+                "version": "139.0.4",
+                "size": "72559768",
+                "crc32c": "2911860b",
+                "md5": "0e9cba77b63db32a3d478de8fc9ce1b1",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/win64/zh-CN/Firefox%20Setup%20139.0.4.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1749499557000
+            },
+            "esr": {
+                "version": "128.11.0",
+                "size": "66232136",
+                "crc32c": "ef7f362f",
+                "md5": "3d97a99559ed8eda9ac2b5f396a3cbea",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.11.0esr/win64/zh-CN/Firefox%20Setup%20128.11.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1748248194000
+            },
+            "beta": {
+                "version": "140.0b9",
+                "size": "72682896",
+                "crc32c": "a757f8d3",
+                "md5": "4bab84366ccb97a6afb20602b6ed0a25",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0b9/win64/zh-CN/Firefox%20Setup%20140.0b9.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1749850526000
+            },
+            "dev": {
+                "version": "140.0b9",
+                "size": "72791824",
+                "crc32c": "5de6fd5b",
+                "md5": "98fd1d5eef9456ac3bceef83dc1f68dd",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/140.0b9/win64/zh-CN/Firefox%20Setup%20140.0b9.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1749844896000
+            },
+            "nightly": {
+                "version": "141.0a1",
+                "size": "81075624",
+                "crc32c": "d18aa675",
+                "md5": "0d26df30ce4033fd1685d927cd75c82d",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-141.0a1.zh-CN.win64.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1749904145000
+            }
+        }
+    }
+}
