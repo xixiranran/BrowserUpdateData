@@ -1,0 +1,221 @@
+{
+    "time": 1769416094260,
+    "data": {
+        "win_x86": {
+            "stable": {
+                "size": 163981880,
+                "sha1": "65649b2263b51184b864c1a470a3c3dcea4e435e",
+                "sha256": "70b8644136ef50b3cc4719f414f628709d93573a363363671c869d923b5df3f8",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e77d46aa-24fc-496c-8a5f-0870d564a6d4?P1=1769847772&P2=404&P3=2&P4=R0ZSUqQAGhyuU9vjQ3eFT5yCUKeHbALC04XnFV0BP4UecfNJ2S6KE%2bfthEoldwMq5P35IWCpFIuYMVXjbkoF9A%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e77d46aa-24fc-496c-8a5f-0870d564a6d4?P1=1769847772&P2=404&P3=2&P4=R0ZSUqQAGhyuU9vjQ3eFT5yCUKeHbALC04XnFV0BP4UecfNJ2S6KE%2bfthEoldwMq5P35IWCpFIuYMVXjbkoF9A%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e77d46aa-24fc-496c-8a5f-0870d564a6d4?P1=1769847772&P2=404&P3=2&P4=R0ZSUqQAGhyuU9vjQ3eFT5yCUKeHbALC04XnFV0BP4UecfNJ2S6KE%2bfthEoldwMq5P35IWCpFIuYMVXjbkoF9A%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e77d46aa-24fc-496c-8a5f-0870d564a6d4?P1=1769847772&P2=404&P3=2&P4=R0ZSUqQAGhyuU9vjQ3eFT5yCUKeHbALC04XnFV0BP4UecfNJ2S6KE%2bfthEoldwMq5P35IWCpFIuYMVXjbkoF9A%3d%3d"
+                ],
+                "version": "144.0.3719.92",
+                "label": "Stable\u7a33\u5b9a\u7248",
+                "updatetime": 1769242972379
+            },
+            "win7and8": {
+                "size": 128512968,
+                "sha1": "4f31ac86b36f7d3e41edb09a65a4bf39803caeba",
+                "sha256": "2b48ce3b304b7b9a8f9377a42d8661ecdc53c5f2c6ee708da9d62127c7802c18",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1713971707&P2=404&P3=2&P4=SgXN3%2bPL3H9%2fqIOGDt4CNheAoFa%2bUnhXNxU%2b6thY9XTEnjymqpyQBmdICZwMl2FQx2NAzgv9Y3EjDv9UVO4O3g%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1713971708&P2=404&P3=2&P4=kRo%2f%2fDaM8C1jnsDRf6uCxZeFIeCLbR%2bDBwYJ0LYTETh2vDhTQbPYS9ipmLzLOnEeSViszLhuGYozvXc24IG2JA%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1713971707&P2=404&P3=2&P4=SgXN3%2bPL3H9%2fqIOGDt4CNheAoFa%2bUnhXNxU%2b6thY9XTEnjymqpyQBmdICZwMl2FQx2NAzgv9Y3EjDv9UVO4O3g%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d87a3bbd-7fe5-4ec3-b806-293cca78b363?P1=1713971708&P2=404&P3=2&P4=kRo%2f%2fDaM8C1jnsDRf6uCxZeFIeCLbR%2bDBwYJ0LYTETh2vDhTQbPYS9ipmLzLOnEeSViszLhuGYozvXc24IG2JA%3d%3d"
+                ],
+                "version": "109.0.1518.140",
+                "label": "win7and8\u7a33\u5b9a\u7248",
+                "updatetime": 1713344278874
+            },
+            "beta": {
+                "size": 164844088,
+                "sha1": "e0293fc9d5c30078f0e06eb6c12202333f7e73c6",
+                "sha256": "12f8e72c7289bf2f493ecbbabe02c09952b9fd58f4189f431e620fa421b4fefc",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f24cd68-812d-4ce1-896c-a8d634ccd1e8?P1=1769847773&P2=404&P3=2&P4=Ie%2bHHrNUTSywncNfmO%2fzE%2fwOeUg2kCHZ6Zr%2fDf3TR08VEvBSx8Frewh%2fbFGVCGvNgCslmfNURJTZlBFxMn54rA%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f24cd68-812d-4ce1-896c-a8d634ccd1e8?P1=1769847773&P2=404&P3=2&P4=Ie%2bHHrNUTSywncNfmO%2fzE%2fwOeUg2kCHZ6Zr%2fDf3TR08VEvBSx8Frewh%2fbFGVCGvNgCslmfNURJTZlBFxMn54rA%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f24cd68-812d-4ce1-896c-a8d634ccd1e8?P1=1769847773&P2=404&P3=2&P4=Ie%2bHHrNUTSywncNfmO%2fzE%2fwOeUg2kCHZ6Zr%2fDf3TR08VEvBSx8Frewh%2fbFGVCGvNgCslmfNURJTZlBFxMn54rA%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1f24cd68-812d-4ce1-896c-a8d634ccd1e8?P1=1769847773&P2=404&P3=2&P4=Ie%2bHHrNUTSywncNfmO%2fzE%2fwOeUg2kCHZ6Zr%2fDf3TR08VEvBSx8Frewh%2fbFGVCGvNgCslmfNURJTZlBFxMn54rA%3d%3d"
+                ],
+                "version": "145.0.3800.17",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1769242972584
+            },
+            "dev": {
+                "size": 164766776,
+                "sha1": "44adb413a8d75111805d48d7c1d0809837a8f1a1",
+                "sha256": "a3491bf310ecef59bf531f276d26e1a0009e13b80302e7b00da713d23e1554cd",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93bb7756-2d15-4c7e-9426-26c3bcf5607c?P1=1769675275&P2=404&P3=2&P4=K5Lu1x5wAcp3EvFSBQIK7%2bGtDqMLSVCqWLeXPlkgsruhdHAvnsVtJG8pcTLONZes9W6kdr4O8CBDUeMl%2bKBzZg%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93bb7756-2d15-4c7e-9426-26c3bcf5607c?P1=1769675275&P2=404&P3=2&P4=K5Lu1x5wAcp3EvFSBQIK7%2bGtDqMLSVCqWLeXPlkgsruhdHAvnsVtJG8pcTLONZes9W6kdr4O8CBDUeMl%2bKBzZg%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93bb7756-2d15-4c7e-9426-26c3bcf5607c?P1=1769675275&P2=404&P3=2&P4=K5Lu1x5wAcp3EvFSBQIK7%2bGtDqMLSVCqWLeXPlkgsruhdHAvnsVtJG8pcTLONZes9W6kdr4O8CBDUeMl%2bKBzZg%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/93bb7756-2d15-4c7e-9426-26c3bcf5607c?P1=1769675275&P2=404&P3=2&P4=K5Lu1x5wAcp3EvFSBQIK7%2bGtDqMLSVCqWLeXPlkgsruhdHAvnsVtJG8pcTLONZes9W6kdr4O8CBDUeMl%2bKBzZg%3d%3d"
+                ],
+                "version": "145.0.3800.10",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1769070475463
+            },
+            "canary": {
+                "size": 165839416,
+                "sha1": "05cb29b5c5b8f839f17178586378641c3cacafcd",
+                "sha256": "360021ab7aea62bdd3a2bfffab93c263a5e70c01fc5215021d41b02373098280",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb205cec-7f69-4920-8eda-c27df544460f?P1=1769847773&P2=404&P3=2&P4=bqaorfmbBY3JodRJ%2bPZ%2f%2fs3w37%2fh50RbNN6Fq8QhGsqcI%2bWSFE4bZ2ynAjLqz%2fGtZWg22H4%2bDfLuOTHn65Lzuw%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb205cec-7f69-4920-8eda-c27df544460f?P1=1769847773&P2=404&P3=2&P4=bqaorfmbBY3JodRJ%2bPZ%2f%2fs3w37%2fh50RbNN6Fq8QhGsqcI%2bWSFE4bZ2ynAjLqz%2fGtZWg22H4%2bDfLuOTHn65Lzuw%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb205cec-7f69-4920-8eda-c27df544460f?P1=1769847773&P2=404&P3=2&P4=bqaorfmbBY3JodRJ%2bPZ%2f%2fs3w37%2fh50RbNN6Fq8QhGsqcI%2bWSFE4bZ2ynAjLqz%2fGtZWg22H4%2bDfLuOTHn65Lzuw%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bb205cec-7f69-4920-8eda-c27df544460f?P1=1769847773&P2=404&P3=2&P4=bqaorfmbBY3JodRJ%2bPZ%2f%2fs3w37%2fh50RbNN6Fq8QhGsqcI%2bWSFE4bZ2ynAjLqz%2fGtZWg22H4%2bDfLuOTHn65Lzuw%3d%3d"
+                ],
+                "version": "146.0.3819.0",
+                "label": "Canary\u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1769242973139
+            }
+        },
+        "win_x64": {
+            "stable": {
+                "size": 185153080,
+                "sha1": "719baa9fc75e1c2655b85057a66aabd4b55b7050",
+                "sha256": "74d0bbcd2396ac37e89e47e8ce37a598fbb3206abd8bc6fb1f7de24b3fe924cd",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd553f7b-c89a-4da7-bd24-85a214cc91b0?P1=1769847773&P2=404&P3=2&P4=IR67TPRcLt8EV3gVLoQxHUF%2fgj56obPDQ59X9x4XfjHerjKlSHL9CsFo582yeMbV%2fI1P2wc40CGGDQfq0oH0UA%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd553f7b-c89a-4da7-bd24-85a214cc91b0?P1=1769847773&P2=404&P3=2&P4=IR67TPRcLt8EV3gVLoQxHUF%2fgj56obPDQ59X9x4XfjHerjKlSHL9CsFo582yeMbV%2fI1P2wc40CGGDQfq0oH0UA%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd553f7b-c89a-4da7-bd24-85a214cc91b0?P1=1769847773&P2=404&P3=2&P4=IR67TPRcLt8EV3gVLoQxHUF%2fgj56obPDQ59X9x4XfjHerjKlSHL9CsFo582yeMbV%2fI1P2wc40CGGDQfq0oH0UA%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fd553f7b-c89a-4da7-bd24-85a214cc91b0?P1=1769847773&P2=404&P3=2&P4=IR67TPRcLt8EV3gVLoQxHUF%2fgj56obPDQ59X9x4XfjHerjKlSHL9CsFo582yeMbV%2fI1P2wc40CGGDQfq0oH0UA%3d%3d"
+                ],
+                "version": "144.0.3719.92",
+                "label": "Stable\u7a33\u5b9a\u7248",
+                "updatetime": 1769242973252
+            },
+            "win7and8": {
+                "size": 140696008,
+                "sha1": "64012bc2d19c899c466b473f1984800870ec2fda",
+                "sha256": "70d496873a0a1ca14ae0a038d25856b2121b1b4b7bad9801ce639b144bac41f8",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1713971721&P2=404&P3=2&P4=e1Snkq8oI%2b8BgCvWgxQ3Wj5%2f4A0cqkwg930B3OuvAGHUSY4aSs0VOmgNMRxen2u8BhpKV6mwfERdB4BqA4W0yA%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1713971722&P2=404&P3=2&P4=m9frS%2bRwqp%2blMkZsC0nC7PKFqcMsP2P7q6oarLq8ZWflO5Uwvp0wCHRKh2pS%2bxwUMsxogT6y4M7z%2bpND%2b%2b2%2feg%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1713971721&P2=404&P3=2&P4=e1Snkq8oI%2b8BgCvWgxQ3Wj5%2f4A0cqkwg930B3OuvAGHUSY4aSs0VOmgNMRxen2u8BhpKV6mwfERdB4BqA4W0yA%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/0c4084f3-1bed-4246-b8ed-206ccbe60e3c?P1=1713971722&P2=404&P3=2&P4=m9frS%2bRwqp%2blMkZsC0nC7PKFqcMsP2P7q6oarLq8ZWflO5Uwvp0wCHRKh2pS%2bxwUMsxogT6y4M7z%2bpND%2b%2b2%2feg%3d%3d"
+                ],
+                "version": "109.0.1518.140",
+                "label": "win7and8\u7a33\u5b9a\u7248",
+                "updatetime": 1713344278874
+            },
+            "beta": {
+                "size": 185796152,
+                "sha1": "03da61994cddd39b0c1963d0f45993f0c3242bba",
+                "sha256": "5e57addf5bfe4dcb0b25a8feffe26052d190d7364ce0dcf7453dc089b51db61c",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c21051d-5654-47e0-80ce-3d9c76f9c513?P1=1769847773&P2=404&P3=2&P4=XGtTlANuVj0qwsNm%2fpk17k4VGKPMIOFJ3BPEUQCAUW84OohKnGLSqjLlxgEEIQSCSTE8dCNjA5t79%2b12PAsgGw%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c21051d-5654-47e0-80ce-3d9c76f9c513?P1=1769847773&P2=404&P3=2&P4=XGtTlANuVj0qwsNm%2fpk17k4VGKPMIOFJ3BPEUQCAUW84OohKnGLSqjLlxgEEIQSCSTE8dCNjA5t79%2b12PAsgGw%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c21051d-5654-47e0-80ce-3d9c76f9c513?P1=1769847773&P2=404&P3=2&P4=XGtTlANuVj0qwsNm%2fpk17k4VGKPMIOFJ3BPEUQCAUW84OohKnGLSqjLlxgEEIQSCSTE8dCNjA5t79%2b12PAsgGw%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1c21051d-5654-47e0-80ce-3d9c76f9c513?P1=1769847773&P2=404&P3=2&P4=XGtTlANuVj0qwsNm%2fpk17k4VGKPMIOFJ3BPEUQCAUW84OohKnGLSqjLlxgEEIQSCSTE8dCNjA5t79%2b12PAsgGw%3d%3d"
+                ],
+                "version": "145.0.3800.17",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1769242973450
+            },
+            "dev": {
+                "size": 185732656,
+                "sha1": "49eecb2a0a82ea68ff05d73e5e9331735111f99f",
+                "sha256": "3a8be4a06a332cbf8e254f4b6227b8ce2cea83859959fbf890bafed002f7ae49",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/104da9d4-68d3-490d-ab6e-fa124a7096a2?P1=1769675278&P2=404&P3=2&P4=LP6WO8UliPfYx63%2bkWrk0bj%2bdCCr69on0hwS10xIqKu4%2b2wzRWbF0V09M3EMsRKkZkrs7NGwgvzBSm4kDiC3tw%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/104da9d4-68d3-490d-ab6e-fa124a7096a2?P1=1769675278&P2=404&P3=2&P4=LP6WO8UliPfYx63%2bkWrk0bj%2bdCCr69on0hwS10xIqKu4%2b2wzRWbF0V09M3EMsRKkZkrs7NGwgvzBSm4kDiC3tw%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/104da9d4-68d3-490d-ab6e-fa124a7096a2?P1=1769675278&P2=404&P3=2&P4=LP6WO8UliPfYx63%2bkWrk0bj%2bdCCr69on0hwS10xIqKu4%2b2wzRWbF0V09M3EMsRKkZkrs7NGwgvzBSm4kDiC3tw%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/104da9d4-68d3-490d-ab6e-fa124a7096a2?P1=1769675278&P2=404&P3=2&P4=LP6WO8UliPfYx63%2bkWrk0bj%2bdCCr69on0hwS10xIqKu4%2b2wzRWbF0V09M3EMsRKkZkrs7NGwgvzBSm4kDiC3tw%3d%3d"
+                ],
+                "version": "145.0.3800.10",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1769070478216
+            },
+            "canary": {
+                "size": 188071008,
+                "sha1": "897fb0e2c55577efc90a2e951a5462f3b9eae1ad",
+                "sha256": "cb7c4b17337a0ad40ccbe54143d244fb35907d49e0fb1a0b7066a7d6f19253de",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2f8a9e0-a389-4583-b8ce-260bf6e16749?P1=1769847774&P2=404&P3=2&P4=CmFvnUcIVI2ElQZFOCOXwRqxewq1RK32uo9qStfzo134ehI7j2hlEA%2fx6w6D2ERs8fLOva89rUnbmn%2bnExgq9w%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2f8a9e0-a389-4583-b8ce-260bf6e16749?P1=1769847774&P2=404&P3=2&P4=CmFvnUcIVI2ElQZFOCOXwRqxewq1RK32uo9qStfzo134ehI7j2hlEA%2fx6w6D2ERs8fLOva89rUnbmn%2bnExgq9w%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2f8a9e0-a389-4583-b8ce-260bf6e16749?P1=1769847774&P2=404&P3=2&P4=CmFvnUcIVI2ElQZFOCOXwRqxewq1RK32uo9qStfzo134ehI7j2hlEA%2fx6w6D2ERs8fLOva89rUnbmn%2bnExgq9w%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a2f8a9e0-a389-4583-b8ce-260bf6e16749?P1=1769847774&P2=404&P3=2&P4=CmFvnUcIVI2ElQZFOCOXwRqxewq1RK32uo9qStfzo134ehI7j2hlEA%2fx6w6D2ERs8fLOva89rUnbmn%2bnExgq9w%3d%3d"
+                ],
+                "version": "146.0.3819.0",
+                "label": "Canary\u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1769242973648
+            }
+        },
+        "win_ARM": {
+            "stable": {
+                "size": 193217632,
+                "sha1": "92e3ae4bcac92b430176f9b18884f4a2a2ce606a",
+                "sha256": "9361b9d566c12ea74deb47b673d32c905b964a46ec96bc03feabaf36e93b19f6",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b711e81-7521-49da-86e1-b16c44919245?P1=1769847774&P2=404&P3=2&P4=I87eSvr%2fP85XleYP1bTrIPaBFXZYWwpzye73ZTc5fEE9bIq2GgUov%2bTkzbip2Ysdv9EDQG%2b86AdsxCyDxrz97w%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b711e81-7521-49da-86e1-b16c44919245?P1=1769847774&P2=404&P3=2&P4=I87eSvr%2fP85XleYP1bTrIPaBFXZYWwpzye73ZTc5fEE9bIq2GgUov%2bTkzbip2Ysdv9EDQG%2b86AdsxCyDxrz97w%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b711e81-7521-49da-86e1-b16c44919245?P1=1769847774&P2=404&P3=2&P4=I87eSvr%2fP85XleYP1bTrIPaBFXZYWwpzye73ZTc5fEE9bIq2GgUov%2bTkzbip2Ysdv9EDQG%2b86AdsxCyDxrz97w%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4b711e81-7521-49da-86e1-b16c44919245?P1=1769847774&P2=404&P3=2&P4=I87eSvr%2fP85XleYP1bTrIPaBFXZYWwpzye73ZTc5fEE9bIq2GgUov%2bTkzbip2Ysdv9EDQG%2b86AdsxCyDxrz97w%3d%3d"
+                ],
+                "version": "144.0.3719.92",
+                "label": "Stable\u7a33\u5b9a\u7248",
+                "updatetime": 1769242973751
+            },
+            "win7and8": {
+                "size": 138498616,
+                "sha1": "ecc38339b29609c24d8091e3ef97470f2631afb1",
+                "sha256": "5de04fdc41cdbac64cecc86a3fd24ddba1520c6b7e04dbd1bfd9d3a6ec7bb971",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713971736&P2=404&P3=2&P4=VwZvL8CnSoFzIxRHie%2bpQIisL2pGq809GH%2b5Kmovxck8ofrPNxhvFwa7YJJaby2a14BxYQTvEtC7BbmF9aMM3g%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713971737&P2=404&P3=2&P4=HwSJNcfWf2ET4FDUILxgyP4IpDuLWD3YiVw6oC4DEnU0w1hC5wjjh1hcBWZfEGtwkpJlFnpzwlQmOcBUkxMARQ%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713971736&P2=404&P3=2&P4=VwZvL8CnSoFzIxRHie%2bpQIisL2pGq809GH%2b5Kmovxck8ofrPNxhvFwa7YJJaby2a14BxYQTvEtC7BbmF9aMM3g%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/630083c1-24b5-4545-9b0b-0f35a727bf89?P1=1713971737&P2=404&P3=2&P4=HwSJNcfWf2ET4FDUILxgyP4IpDuLWD3YiVw6oC4DEnU0w1hC5wjjh1hcBWZfEGtwkpJlFnpzwlQmOcBUkxMARQ%3d%3d"
+                ],
+                "version": "109.0.1518.140",
+                "label": "win7and8\u7a33\u5b9a\u7248",
+                "updatetime": 1713344278874
+            },
+            "beta": {
+                "size": 194304056,
+                "sha1": "d743bc9b04423e9352d80d9a2196b23a435377c8",
+                "sha256": "3d27b845402b974807d3576765034d95cf212cbf2791739cb0168d785abe6907",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1930faa8-7061-4a4b-9494-0412699265c4?P1=1769847775&P2=404&P3=2&P4=MElQa8bE9FuuCEiBPQHL5a3uQAU%2f3yNxYE75pzuPCHYKjR%2bsdBmljKjPTdA4I7lRwTRLwOP4OvFmjJXSP8D0aQ%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1930faa8-7061-4a4b-9494-0412699265c4?P1=1769847775&P2=404&P3=2&P4=MElQa8bE9FuuCEiBPQHL5a3uQAU%2f3yNxYE75pzuPCHYKjR%2bsdBmljKjPTdA4I7lRwTRLwOP4OvFmjJXSP8D0aQ%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1930faa8-7061-4a4b-9494-0412699265c4?P1=1769847775&P2=404&P3=2&P4=MElQa8bE9FuuCEiBPQHL5a3uQAU%2f3yNxYE75pzuPCHYKjR%2bsdBmljKjPTdA4I7lRwTRLwOP4OvFmjJXSP8D0aQ%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1930faa8-7061-4a4b-9494-0412699265c4?P1=1769847775&P2=404&P3=2&P4=MElQa8bE9FuuCEiBPQHL5a3uQAU%2f3yNxYE75pzuPCHYKjR%2bsdBmljKjPTdA4I7lRwTRLwOP4OvFmjJXSP8D0aQ%3d%3d"
+                ],
+                "version": "145.0.3800.17",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1769242974625
+            },
+            "dev": {
+                "size": 194195000,
+                "sha1": "190772096a62c3666dee97cda773d0ed41432fae",
+                "sha256": "68ca077719fccd7611341e603f8bb1f402109e5ad52a28c7bc124ea9d403d0e7",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa642777-3abe-4a96-b5ac-b5e6f12839a0?P1=1769675281&P2=404&P3=2&P4=dBJF7l16PVt3SyuqzgOqcXQ6FHU2EjEadm1tMpj7Vtt%2f%2bWL3GdVkYC2Su9ogfe1w74iBBZigKxqK4Xja2hKRhw%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa642777-3abe-4a96-b5ac-b5e6f12839a0?P1=1769675281&P2=404&P3=2&P4=dBJF7l16PVt3SyuqzgOqcXQ6FHU2EjEadm1tMpj7Vtt%2f%2bWL3GdVkYC2Su9ogfe1w74iBBZigKxqK4Xja2hKRhw%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa642777-3abe-4a96-b5ac-b5e6f12839a0?P1=1769675281&P2=404&P3=2&P4=dBJF7l16PVt3SyuqzgOqcXQ6FHU2EjEadm1tMpj7Vtt%2f%2bWL3GdVkYC2Su9ogfe1w74iBBZigKxqK4Xja2hKRhw%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa642777-3abe-4a96-b5ac-b5e6f12839a0?P1=1769675281&P2=404&P3=2&P4=dBJF7l16PVt3SyuqzgOqcXQ6FHU2EjEadm1tMpj7Vtt%2f%2bWL3GdVkYC2Su9ogfe1w74iBBZigKxqK4Xja2hKRhw%3d%3d"
+                ],
+                "version": "145.0.3800.10",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1769070481247
+            },
+            "canary": {
+                "size": 195722296,
+                "sha1": "e51ab8b76ce929b5c12131c71d7d60310c3a892a",
+                "sha256": "28b53f03f9363c9d5f2de5b2418f96da4593595495b831246630db0a4162016e",
+                "urls": [
+                    "http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde7ff8c-1207-4b42-8a36-375d17eb9839?P1=1769847775&P2=404&P3=2&P4=JZfVZ4EETd0pbwe7B7VuVk0kb%2fnOZf1GjsuAHBQCoLVeF6JgqyrcwAQ6CT60ltdgLf2rveGfx%2beenPd0TkmFMA%3d%3d",
+                    "http://msedge.f.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde7ff8c-1207-4b42-8a36-375d17eb9839?P1=1769847775&P2=404&P3=2&P4=JZfVZ4EETd0pbwe7B7VuVk0kb%2fnOZf1GjsuAHBQCoLVeF6JgqyrcwAQ6CT60ltdgLf2rveGfx%2beenPd0TkmFMA%3d%3d",
+                    "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde7ff8c-1207-4b42-8a36-375d17eb9839?P1=1769847775&P2=404&P3=2&P4=JZfVZ4EETd0pbwe7B7VuVk0kb%2fnOZf1GjsuAHBQCoLVeF6JgqyrcwAQ6CT60ltdgLf2rveGfx%2beenPd0TkmFMA%3d%3d",
+                    "https://msedge.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bde7ff8c-1207-4b42-8a36-375d17eb9839?P1=1769847775&P2=404&P3=2&P4=JZfVZ4EETd0pbwe7B7VuVk0kb%2fnOZf1GjsuAHBQCoLVeF6JgqyrcwAQ6CT60ltdgLf2rveGfx%2beenPd0TkmFMA%3d%3d"
+                ],
+                "version": "146.0.3819.0",
+                "label": "Canary\u91d1\u4e1d\u96c0\u7248",
+                "updatetime": 1769242975041
+            }
+        }
+    }
+}
