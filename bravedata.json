@@ -1,0 +1,119 @@
+{
+    "time": 1773563611446,
+    "data": {
+        "win_x86": {
+            "release": {
+                "version": "146.1.88.132",
+                "size": 133471312,
+                "sha1": "5a4fa3f925208915275c38c27ce46858cbc1f7b0",
+                "sha256": "4f68efb2ec6cd07eada4f6cf6be94df77e5794efb6abb4198411147d88461fa3",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Release/x86-rel/win/146.1.88.132/brave_installer-ia32.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1773563610421
+            },
+            "beta": {
+                "version": "146.1.89.113",
+                "size": 133822544,
+                "sha1": "4410a74fd7f0349163faccb771b2a7f1db01682d",
+                "sha256": "57843afbbeb54b0fe10004eef119a5d4b321b626570fbc9f7cceb303602bf242",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Beta/x86-be/win/146.1.89.113/brave_installer-ia32.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1773477043412
+            },
+            "dev": {
+                "version": "119.1.61.87",
+                "size": 111640088,
+                "sha1": "c2d966599d2cbfa5ea48657ec0a9dac272a8687f",
+                "sha256": "1af9224406ff10ab9bfbc5711cfecff15cdd44078a369d598c7c942de446a56d",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser/x86-dev/win/119.1.61.87/brave_installer-ia32.exe",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1714444980421
+            },
+            "nightly": {
+                "version": "146.1.90.29",
+                "size": 133800528,
+                "sha1": "a254a8d64887ff9b61168d03a5e03a2a31e2f6a8",
+                "sha256": "436914aa0010598a458cfe5f435a684356a4d74e3f4094ac97a6aa0067e58882",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Nightly/x86-ni/win/146.1.90.29/brave_installer-ia32.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1773477043721
+            }
+        },
+        "win_x64": {
+            "release": {
+                "version": "146.1.88.132",
+                "size": 148191312,
+                "sha1": "cd3859690be05c2ba17a3143e82fc372d69ee6f0",
+                "sha256": "10c728d7dd43269ef35993fdac9923cd9315c02c939726bb850da4bfc8189e7d",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Release/x64-rel/win/146.1.88.132/brave_installer-x64.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1773563610829
+            },
+            "beta": {
+                "version": "146.1.89.113",
+                "size": 148546128,
+                "sha1": "bf18fa0c7c0999079752a6c86a177d5307648e65",
+                "sha256": "e59a4cdca36a7df5ba28eb0eedc6067e57f612cc6c8719bcec4d87405daecbdb",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Beta/x64-be/win/146.1.89.113/brave_installer-x64.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1773477044146
+            },
+            "dev": {
+                "version": "119.1.61.87",
+                "size": 123560472,
+                "sha1": "df0db94a2726c7e195e3865ba6b66b01f33cdbcd",
+                "sha256": "eb42858b83fc416e8a41ff151a58d5f48bb6cfd88564fa4930ebcf2e149ed878",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser/x64-dev/win/119.1.61.87/brave_installer-x64.exe",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1714444982753
+            },
+            "nightly": {
+                "version": "146.1.90.29",
+                "size": 148526672,
+                "sha1": "1dcffbabd4ecbd21a85464a69ce2c5504ce5df61",
+                "sha256": "94c840283e05089700c30faf9a8f3ded6a2c677d394eb1a642e18f3f7261bb33",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Nightly/x64-ni/win/146.1.90.29/brave_installer-x64.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1773477044567
+            }
+        },
+        "win_arm64": {
+            "release": {
+                "version": "146.1.88.132",
+                "size": 153128016,
+                "sha1": "d5d789947abd16c7106843f6bcdc6d54471d85d3",
+                "sha256": "13699659939db54b11108dc4215278c91b0511deaf723831e728c70c1205e0a3",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Release/arm64-rel/win/146.1.88.132/brave_installer-arm64.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1773563611209
+            },
+            "beta": {
+                "version": "146.1.89.113",
+                "size": 153589840,
+                "sha1": "aca582a6d4c6cb9099b6085443c316bfd5c5d87c",
+                "sha256": "08b8fd4e172367e267906fb1b2888ace1cf27290321d514dcef1c7fde6d60081",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Beta/arm64-be/win/146.1.89.113/brave_installer-arm64.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1773477044977
+            },
+            "dev": {
+                "version": "119.1.61.87",
+                "size": 119863832,
+                "sha1": "e2c8245927a3a5500800682ce4cf146627b6ac56",
+                "sha256": "6a75260acb8e2956be7d9f47d651cb6cf335ea86215936ea588ee91839c55702",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser/arm64-dev/win/119.1.61.87/brave_installer-arm64.exe",
+                "label": "Dev\u5f00\u53d1\u7248",
+                "updatetime": 1714444985343
+            },
+            "nightly": {
+                "version": "146.1.90.29",
+                "size": 153635408,
+                "sha1": "ae73772dcc28160655034ed328f2a3b807581bcb",
+                "sha256": "37e89846ac7986fbde16ddfbfe0184a5115786707ed8a24d3e4cf79030e6f8aa",
+                "url": "https://updates-cdn.bravesoftware.com/build/Brave-Browser-Nightly/arm64-ni/win/146.1.90.29/brave_installer-arm64.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1773477045310
+            }
+        }
+    }
+}
