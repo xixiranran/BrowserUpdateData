@@ -1,0 +1,99 @@
+{
+    "time": 1789214233493,
+    "data": {
+        "win_x86": {
+            "release": {
+                "version": "155.0.1",
+                "size": "80994392",
+                "crc32c": "0000d855",
+                "md5": "a4978f591806ba9a490d164e211386a8",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win32/zh-CN/Firefox%20Setup%20155.0.1.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1788529836000
+            },
+            "esr": {
+                "version": "140.15.0",
+                "size": "68959360",
+                "crc32c": "69b16280",
+                "md5": "ca58619474dbfcd4652f27f4167d0875",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win32/zh-CN/Firefox%20Setup%20140.15.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1788181639000
+            },
+            "beta": {
+                "version": "156.0b5",
+                "size": "81880992",
+                "crc32c": "55d85c52",
+                "md5": "9936c24580ce9f4b07d8d3d03647ff31",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0b5/win32/zh-CN/Firefox%20Setup%20156.0b5.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1788972362000
+            },
+            "dev": {
+                "version": "156.0b5",
+                "size": "82231608",
+                "crc32c": "3dc653c3",
+                "md5": "f3d8014b58141e93d6f1606d4d8eebca",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b5/win32/zh-CN/Firefox%20Setup%20156.0b5.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1788971497000
+            },
+            "nightly": {
+                "version": "158.0a1",
+                "size": "83641184",
+                "crc32c": "2d72e407",
+                "md5": "4c27cffba68b9c52e002fb95b0724965",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-158.0a1.zh-CN.win32.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1789167273000
+            }
+        },
+        "win_x64": {
+            "release": {
+                "version": "155.0.1",
+                "size": "91740704",
+                "crc32c": "0eb9bbea",
+                "md5": "f669b3d22b314d283f5b21cae58baffe",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/zh-CN/Firefox%20Setup%20155.0.1.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1788529935000
+            },
+            "esr": {
+                "version": "140.15.0",
+                "size": "73267640",
+                "crc32c": "55839659",
+                "md5": "0aacc5a29c8ab37a8bbf63e2b72b3938",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.15.0esr/win64/zh-CN/Firefox%20Setup%20140.15.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1788181714000
+            },
+            "beta": {
+                "version": "156.0b5",
+                "size": "92829024",
+                "crc32c": "a0d0cb51",
+                "md5": "fdee786771be92926aaef8ccf77db023",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0b5/win64/zh-CN/Firefox%20Setup%20156.0b5.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1788972434000
+            },
+            "dev": {
+                "version": "156.0b5",
+                "size": "93343736",
+                "crc32c": "20ae6e81",
+                "md5": "f741f5aff2cb86a83708a0616eda737f",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/156.0b5/win64/zh-CN/Firefox%20Setup%20156.0b5.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1788971575000
+            },
+            "nightly": {
+                "version": "158.0a1",
+                "size": "95275520",
+                "crc32c": "1beaade0",
+                "md5": "86d8eae289af88347224282b5c03f2bd",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-158.0a1.zh-CN.win64.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1789167570000
+            }
+        }
+    }
+}
