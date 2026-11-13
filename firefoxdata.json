@@ -1,0 +1,99 @@
+{
+    "time": 1794585222414,
+    "data": {
+        "win_x86": {
+            "release": {
+                "version": "160.0",
+                "size": "84401144",
+                "crc32c": "9a4afa9a",
+                "md5": "83f85b078071f02b6cde7155d63a33db",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0/win32/zh-CN/Firefox%20Setup%20160.0.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1794259746000
+            },
+            "esr": {
+                "version": "153.7.0",
+                "size": "79798288",
+                "crc32c": "8ca62ce1",
+                "md5": "8c95fa7ff52f761a813a964092320b14",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.7.0esr/win32/zh-CN/Firefox%20Setup%20153.7.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1794259103000
+            },
+            "beta": {
+                "version": "161.0b2",
+                "size": "85048456",
+                "crc32c": "9a3b71c9",
+                "md5": "6bb0b97220e76a3ff214c7d8f3d054c9",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/161.0b2/win32/zh-CN/Firefox%20Setup%20161.0b2.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1794410780000
+            },
+            "dev": {
+                "version": "161.0b3",
+                "size": "85416240",
+                "crc32c": "8636f00b",
+                "md5": "42f9c2473da776c6e39601b6c4a1ac1a",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/161.0b3/win32/zh-CN/Firefox%20Setup%20161.0b3.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1794583800000
+            },
+            "nightly": {
+                "version": "162.0a1",
+                "size": "86291552",
+                "crc32c": "6bc420c6",
+                "md5": "e69505b02ca2e186f772ef896c73cc28",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-162.0a1.zh-CN.win32.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1794567509000
+            }
+        },
+        "win_x64": {
+            "release": {
+                "version": "160.0",
+                "size": "95841648",
+                "crc32c": "3dc85178",
+                "md5": "a3855272767923fa97bc611037326aae",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0/win64/zh-CN/Firefox%20Setup%20160.0.exe",
+                "label": "Release\u53d1\u884c\u7248",
+                "updatetime": 1794259840000
+            },
+            "esr": {
+                "version": "153.7.0",
+                "size": "90334408",
+                "crc32c": "8b345b9b",
+                "md5": "76abb599776a170e7373400335e99f45",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.7.0esr/win64/zh-CN/Firefox%20Setup%20153.7.0esr.exe",
+                "label": "Esr\u7a33\u5b9a\u7248",
+                "updatetime": 1794259167000
+            },
+            "beta": {
+                "version": "161.0b2",
+                "size": "96471240",
+                "crc32c": "1622933d",
+                "md5": "7618a463e8466ee6d8f3d59118a0722b",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/161.0b2/win64/zh-CN/Firefox%20Setup%20161.0b2.exe",
+                "label": "Beta\u6d4b\u8bd5\u7248",
+                "updatetime": 1794410846000
+            },
+            "dev": {
+                "version": "161.0b3",
+                "size": "97223440",
+                "crc32c": "e25806d5",
+                "md5": "46031abe0e76e6df2e0e65de382b9704",
+                "url": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/161.0b3/win64/zh-CN/Firefox%20Setup%20161.0b3.exe",
+                "label": "Dev \u5f00\u53d1\u7248",
+                "updatetime": 1794583876000
+            },
+            "nightly": {
+                "version": "162.0a1",
+                "size": "98190072",
+                "crc32c": "7ecb7851",
+                "md5": "ef452b20cf9c8e88d5061cd9de7cd25f",
+                "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-162.0a1.zh-CN.win64.installer.exe",
+                "label": "Nightly\u6bcf\u591c\u7248",
+                "updatetime": 1794567440000
+            }
+        }
+    }
+}
